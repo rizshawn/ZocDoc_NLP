@@ -1,6 +1,6 @@
 This project analyze's doctors in the New York City area based on patient reviews from the website Zocdoc. 
 
-NLP was used to analyze review comments posted on the website in order to provide comprehensive feeback to doctors on the platform. 
+NLP was used to analyze comments posted on the website in order to provide comprehensive feeback to doctors on the platform. 
 
 Python packages pandas and numpy were used to clean and analyze the data, matplotlib was used to visualize the data and scikit-learn was used to implement NLP. 
 
